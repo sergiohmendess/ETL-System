@@ -1,0 +1,17 @@
+{
+    "name": "etl-system",
+    "version": "1.0.0",
+    "description": "Sistema ETL moderno em JavaScript",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "dependencies": {
+      "csv-parser": "^3.0.0",
+      "fast-csv": "^4.3.0",
+      "winston": "^3.9.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
